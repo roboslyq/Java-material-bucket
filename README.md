@@ -11,7 +11,7 @@
 
 [压力测试工具gatling](https://gatling.io/)
 [JSON生成BEAN](https://bejson.com/)
-
+[LINUX翻译-金志国](http://www.jinbuguo.com/)
 
 #以下链接转自于：https://blog.csdn.net/lldouble/article/details/79778172
 
