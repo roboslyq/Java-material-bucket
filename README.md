@@ -32,4 +32,4 @@
  - [JavaGuide面试题集](https://github.com/Snailclimb/JavaGuide)
  
 [大牛github]
- - [小马哥](https://www.liaoxuefeng.com/)
+ - [小马哥](https://github.com/mercyblitz)
