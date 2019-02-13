@@ -1,1 +1,923 @@
-s
+#以下链接转自于：https://blog.csdn.net/lldouble/article/details/79778172
+
+当你遇到困境时
+
+- [Stack Overflow](https://stackoverflow.com/) : 订阅他们的每周时事通讯和其他你感兴趣的话题
+
+- [Quora](https://www.quora.com/) : 分享知识、更好地了解世界的地方
+
+- [Learn Anything](https://learn-anything.xyz/) : 策划知识图的社区，在那里可以找到学习任何东西的最佳路径
+
+- [devRant](https://www.devrant.io/) : 社区，在那里你可以咆哮和宣泄你的压力
+
+- [Codementor](https://www.codementor.io/) : 导师式社区，可以通过1对1的帮助等在同行开发人员的指导下学习
+
+   
+
+ 
+
+新闻
+
+- [Hacker News](https://news.ycombinator.com/) : 程序员的新闻聚合，在那里礼貌为王，尝试以一篇时事通讯在你的收件箱里获取头条新闻
+
+- [Hacker Newsletter](http://www.hackernewsletter.com/) : 手动策划，每周发布
+
+- [Hacker News Digest](https://hndigest.com/) : 自动策划，按你所希望的频率发布
+
+- [Ars Technica](https://arstechnica.com/) : 发布独家的高质量文章
+
+- [ACM TechNews](http://technews.acm.org/) : 科技类新闻
+
+- [Lobsters](https://lobste.rs/) : 大龙虾社区是围绕链接聚合和讨论的关注技术的社区
+
+- [TechCrunch](https://techcrunch.com/) : 致力于深度剖析初创公司、评论互联网新产品，以及曝光科技新闻
+
+- [The Verge](https://www.theverge.com/) : 更加面向产品的科技新闻
+
+- [Recode](https://www.recode.net/) : 聚焦于硅谷商业的科技信息
+
+- [GSMArena.com](http://www.gsmarena.com/) : 最新移动电话和安卓相关的新闻
+
+- [product hunt](https://www.producthunt.com/) : 发现你的下一个最爱之物
+
+- [AlternativeTo](https://alternativeto.net/) : 众包软件推荐
+
+- [Better Dev Links](https://betterdev.link/) : 助力你成为更佳开发人员的每周链接
+
+- [DevOpsLinks](http://devopslinks.com/) : 对 DevOps 感兴趣的数以千计的开发人员和 IT 专家的网络社区
+
+   
+
+ 
+
+初学者的编码实践
+
+- [freeCodeCamp](https://www.freecodecamp.org/) : 学习为非盈利组织编写和构建项目。今天就构建你的全栈网页开发组合
+
+- [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : 有趣的编程挑战，在那里你可以观摩和学习他人的代码，即使你不能以代码解决问题，你也可以看看别人如何解决。
+
+- [Programming by Doing](http://programmingbydoing.com/) : 对于那些想从绝对基础开始的人来说非常好的网站
+
+- [CodeAbbey - a place where everyone can master programming](http://www.codeabbey.com/) : 从问题开始的最佳之地，从最简单的问题开始，每个问题逐步增加难度。
+
+- [Exercism.io](http://exercism.io/) : 下载并解决超过30种不同语言的练习问题，并与其他人分享你的解决方案。
+
+- [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : 大量收集小应用程序
+
+- [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : 解决以上链接中的大部分问题的方法
+
+- [Lod - Cloud](http://lod-cloud.net/) : 链接开放数据云图
+
+- [Cave of programming](https://caveofprogramming.com/) : 学习编程，升级技能。
+
+- [People Can Program](https://www.peoplecanprogram.com/) : 网络上最对用户友好的学习编码的应用
+
+- [Codeacademy](https://www.codecademy.com/) : 交互式学习编码，免费。
+
+- [Vim adventures](https://vim-adventures.com/) : 通过玩来学习 VIM
+
+   
+
+ 
+
+给那些想开始一个小项目却找不到点子的人
+
+- [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : 包含从初学者到中级水平的大约 125 个项目点子
+
+- [karan/Projects](https://github.com/karan/Projects) : 大量的小项目，供初学者选用
+
+- [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : 如何选择从哪里开始
+
+- [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : 可以凭任意编程语言实现的实际项目的巨长清单！
+
+   
+
+ 
+
+一般编码建议
+
+- [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be) : 我从教别人中学到了什么
+
+- [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer) : 来自终身程序员的编程者头条教训
+
+- [Programming Principles](https://webpro.github.io/programming-principles/) : 程序设计原理与模式分类综述
+
+- [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/) : 良好编程的原则
+
+- [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/) : 如何成为一名程序员，或搜索的艺术
+
+- [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London 的博客
+
+- [Dieter Rams : 10 Principles of Good Product Design](https://stephenhaunts.com/2013/12/11/dieter-rams-10-principles-of-good-product-design/) : Stephen Haunts { 战壕中的编码 }
+
+- [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : 开发人员的进阶之路！
+
+- [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/) : Henrik Warne 的博客
+
+- [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) : 设计模式的全集
+
+- [Design Patterns](https://sourcemaking.com/design_patterns) : 以示例详细解释设计模式
+
+- [JS Project Guidelines](https://github.com/wearehive/project-guidelines) : 一组 JavaScript 项目的最佳实践
+
+   
+
+ 
+
+编程风格
+
+- [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : 制作意大利面条（spaghetti）的人必看
+
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
+- [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : 对 JavaScript 的一种最合理的方法
+
+- [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : Airbnb 的 Ruby 风格指南
+
+- [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : 开始时要避免的坏习惯
+
+- [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : 值得采用的 C 编程习惯
+
+- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : 想报告 bug 但你不知道怎么做？看看这个帖子
+
+- [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html) : 检查如何调试程序
+
+- [Stuff you need to Code Better!](http://codebetter.com/) : 能帮到你的材料
+
+- [Directory of Online CS Courses](https://github.com/open-source-society/computer-science) : 免费的计算机科学的线上课程
+
+- [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses) : 计算机科学的另一套线上课程
+
+- [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : 官方认可的风格指南，作者 John Pappa
+
+   
+
+ 
+
+一般工具
+
+- [regex101](https://regex101.com/) : 线上正则表达式测试器和调试器： PHP、 PCRE、 Python、 Golang 和 JavaScript
+
+- [CodePen](https://codepen.io/) ： 前端开发人员的游乐场兼浏览器版代码编辑器
+
+- [Devicons](http://vorillaz.github.io/devicons/#/main) : 给开发人员的图标的备忘单
+
+   
+
+ 
+
+面试的准备
+
+- [Pramp | 软件工程师自由点播的面试实践平台](https://www.pramp.com/ref/gt1) :与真正的同行练习程序员的面试。
+
+- [GeeksforGeeks | 给极客的计算机科学门户网站](http://www.geeksforgeeks.org/) : 同时订阅他们的提要以获得新文章的链接。
+
+- [一个网战，关注术面试问题、脑筋急转弯、难题、怪题](https://www.techinterview.org/) : 那是些什么见鬼的东西，还有其他让你思考的东西！
+
+- 问题集[| LeetCode OJ](https://leetcode.com/problemset/algorithms/) : 针对面试的编码实践
+
+- [程序员和软件面试问答](http://www.programmerinterview.com/)
+
+- [Reddit.com/user/ashish2199/m/puzzles](https://www.reddit.com/user/ashish2199/m/puzzles/) : 逻辑难题
+
+- [量化分析的难题以及解答的汇集](http://puzzles.nigelcoldwell.co.uk/)
+
+- [能力倾向的问题和答案](http://www.indiabix.com/) : 量化分析和能力倾向的准备
+
+- [面试档案- Java Honk](http://javahonk.com/category/interview/)
+
+- [编程面试的10大算法](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+
+- [算法设计canvas](https://www.hiredintech.com/algorithm-design))
+
+- [大O算法复杂度的小抄](http://bigocheatsheet.com/#)
+
+- [Unix / Linux 小抄](http://cheatsheetworld.com/programming/unix-linux-cheat-sheet)
+
+- [怎样去面试](http://kelukelu.me/interview/index.html)
+
+- [怎样从算法面试中胜出](http://www.palantir.com/2011/09/how-to-rock-an-algorithms-interview)
+
+- [开心难题](http://gurmeet.net/puzzles/)
+
+- [通过动画可视化数据结构和算法](https://visualgo.net/en)
+
+- [这里是怎样准备技术面试• /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
+
+- [技术面试指南](https://www.kchodorow.com/blog/2013/02/28/guide-to-tech-interviews/)
+
+- [为什么你赚得少 • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/1b8wa3/why_you_make_less_money/)
+
+- [IIT Delhi Placement Experience](http://placement-iit2013.blogspot.in/)
+
+- [what_are_your_goto_questions_for_the_do_you_have?](https://www.reddit.com/r/cscareerquestions/comments/209rkq/what_are_your_goto_questions_for_the_do_you_have/)
+
+- [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/) : 这里有关于编程面试问题的超长列表，我在为4大面试而学习时汇编的。我想你们会发现它很有用的！
+
+- [Interviewing At Jane Street](https://blogs.janestreet.com/interviewing-at-jane-street/)
+
+- [How to prepare for an interview - 1](http://se7so.blogspot.in/2014/01/how-to-prepare-for-interview-1.html)：如何准备面试
+
+- [Summer Internship: The Ultimate Guide](http://eulercoder.me/blog/career/Summer-Internship-the-ultimate-guide)
+
+- [The 25 most difficult HR questions](http://www.datsi.fi.upm.es/~frosal/docs/25mdq.html)：25 个最难的 HR 问题
+
+- [Job interviews News, Videos, Reviews and Gossip - Lifehacker](http://lifehacker.com/tag/job-interviews)：面试新闻、视频、评论和八卦
+
+- [How to Answer the Toughest 40 Job Interview Questions | ICS Job Portal](http://www.icsjobportal.com/blog/job-interview-questions)：如何回答最难的 40 个面试问题
+
+- [Job Interview Questions and Best Answers](https://www.thebalance.com/job-interview-questions-and-answers-2061204)：面试问题和最佳答案
+
+- [How to Answer "Tell Me a Little About Yourself" | The Art of Manliness](http://www.artofmanliness.com/2016/01/05/tell-me-a-little-about-yourself/)
+
+- [Job Interview: How to Ace a Job Interview | The Art of Manliness](http://www.artofmanliness.com/2012/08/06/how-to-ace-a-job-interview/)
+
+- [Give your résumé a face lift](http://www.lifeclever.com/give-your-resume-a-face-lift/)
+
+- [BIG O Misconceptions](http://ssp.impulsetrain.com/big-o.html)
+
+- [Bitwise tricks](https://gist.github.com/dideler/2365607)
+
+- [Core Java Interview questions - Interview question on each topic](http://javahonk.com/core-java-interview-questions/)
+
+- [Java Interview Questions and Answers](https://adnjavainterview.blogspot.in/)：Java 面试问题和答案
+
+- [Big collection of interview preparation links • /r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/)
+
+- [Unsolicited_advice_for_job_seekers_and_employers](https://www.reddit.com/r/india/comments/1clgdj/unsolicited_advice_for_job_seekers_and_employers/)
+
+- [five-essential-phone-screen-questions - steveyegge2](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+
+- [CS9: Problem-Solving for the CS Technical Interview](http://web.stanford.edu/class/cs9/)：CS 技术面试问题解答
+
+- [Mission-peace/interview problems](https://github.com/mission-peace/interview/wiki) : 编程面试问题的大汇集
+
+- [SQL Joins explained using venn diagram](http://stevestedman.com/wp-content/uploads/VennDiagram1.pdf)
+
+- [10 Frequently asked SQL Query Interview Questions](http://www.java67.com/2013/04/10-frequently-asked-sql-query-interview-questions-answers-database.html)
+
+- [Get Ready to Learn SQL: 8. Database Normalization Explained in Simple English - Essential SQL](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
+
+- [Programming Language Concepts: Lecture Notes](http://www.cmi.ac.in/~madhavan/courses/pl2006/lecturenotes/lecture-notes/lecture-notes.html) : 面向对象编程的概念和编程语言的概念
+
+- [We Help Coders Get Hired](https://www.hiredintech.com/app) : 这个网站提供关于系统设计、面试策略、软技能等方面的课程
+
+- [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview)
+
+- [How to Break Into the Tech Industry - a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews)
+
+- [Freshers Interviews](http://placementsindia.blogspot.in/)
+
+- [C PUZZLES, Some interesting C problems](http://www.gowrikumar.com/c/index.php)
+
+- [wu :: riddles(hard)](https://www.ocf.berkeley.edu/~wwu/riddles/hard.shtml) : 逻辑难题和谜题
+
+- [github.com/odino/interviews](https://github.com/odino/interviews) : 面试的重要问题清单
+
+- [svozniuk/java-interviews](https://github.com/svozniuk/java-interviews) : Java 面试问题
+
+- [kimberli/interviews](https://github.com/kimberli/interviews) : 针对面试的学习表
+
+- [Determining the big-O runtimes of these different loops?](https://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : 真地很好的 stackoverflow 问题，囊括了计算运行时复杂度的基础。
+
+- [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis) : 面试时要问的问题以更多地了解公司
+
+- [SQL 面试问题](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) : 很棒的 SQL 测试
+
+   
+
+ 
+
+纪录片
+
+- Machine that Changed the World - a very good documentary about history of computers （改变世界的机器——关于电脑历史的优秀的纪录片）
+
+   
+
+  - Part 1 是无法获取的，因为广为流传的版权声明问题。
+
+  - [Part 2: Inventing the Future](https://www.youtube.com/watch?v=0iPiYxjsYKk) 发明未来
+
+  - [Part 3: The Paperback Computer](https://www.youtube.com/watch?v=d7DKVfOXr54) 简装计算机
+
+  - [Part 4: The Thinking Machine](https://www.youtube.com/watch?v=enWWlx7-t0k) 会思考的机器
+
+  - [Part 5: The World at Your Fingertips](https://www.youtube.com/watch?v=fLLXiP7diEo) 你指尖下的世界
+
+     
+
+- [Triumph of the Nerds](https://www.youtube.com/playlist?list=PLn-Y3vvQbmHO5WUcBdIWqiUfNawhC1cn3) 神之胜利: 播放列表
+
+- [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary](https://www.youtube.com/watch?v=a-49a_CjH0M) 项目代码竞赛—— Netscape/Mozilla 纪录片的始祖
+
+- [The Code: Story of Linux documentary](https://www.youtube.com/watch?v=XMm0HsmOTFI) 代码：关于 linux 故事的纪录片
+
+- [Breaking the Code: Biography of Alan Turing](https://www.youtube.com/watch?v=S23yie-779k) 打破代码：艾伦图灵自传
+
+- [Mechanical Computer (All Parts)](https://www.youtube.com/watch?v=s1i-dnAH9Y4) 机械电脑: 从20世纪50年代以来，非常好的解释了机械电脑如何在没有所有现代电子产品的情况下的工作原理的视频。
+
+- [Download: The True Story of the Internet](https://www.youtube.com/playlist?list=PL_IlIlrxhtPMqW4b0-v8OgLvFZQes6SoZ) 互联网的真实故事: 发现频道的纪录片之一，描述浏览器之战、网络泡沫等内容。
+
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/) 自学计算机科学
+
+- [How does CPU execute program (video)](https://www.youtube.com/watch?v=42KTvGYQYnA) 视频：CPU 是如何执行程序的
+
+- [Machine Code Instructions (video)](https://www.youtube.com/watch?v=Mv2XQgpbTNE) 视频：机器代码指令
+
+- [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4) 视频：Harvard CS50-渐进表示法
+
+- [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) 编码面试破解指南
+
+- [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo) 全栈系列
+
+- [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https://www.youtube.com/watch?v=1fqxMuPmGak) 无所不问
+
+   
+
+ 
+
+学习新知识的网络课程
+
+- [Class Central](https://www.class-central.com/) : 数以千计的慕课课程的10万多的学生评论目录
+
+- [NPTEL Vidoes COMP_SCI_ENGG](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
+
+- [Coursera.org](https://www.coursera.org/)
+
+- [edX](https://www.edx.org/)
+
+- [MOOC.fi](http://mooc.fi/english.html) : 来自赫尔辛基大学的免费线上课程
+
+- [Udacity](https://www.udacity.com/)
+
+- [Kadenze | Creative Programming](https://www.kadenze.com/courses?subjects%5B%5D=7) : 聚焦于艺术与创造力的编程课程
+
+- [UCBerkeley](https://www.youtube.com/user/UCBerkeley/videos)
+
+- [麻省理工学院电气工程与计算机科学系的网络开放课程](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+
+- [CS50](https://www.youtube.com/user/cs50tv/videos)
+
+- [prakhar1989/awesome-CS-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : 囊括了大量计算机科学课程的列表
+
+- [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : 给自学者的慕课课程列表
+
+   
+
+ 
+
+与你的首选编程语言相关的网站（对我来说是 Java ）
+
+- [重温ava](http://javarevisited.blogspot.in/) : 有益于 Java 语言学习和面试准备
+
+- [The Java™教程](https://docs.oracle.com/javase/tutorial/) : 最好的 Java 教程
+
+- [Artima.co的Java角](http://www.artima.com/java/index.html)
+
+- [Java 可视化器](http://www.cs.princeton.edu/~cos126/java_visualize/) : 帮助可视化引用、变量的值，等等
+
+- [Java 讲座笔记](http://www.cafeaulait.org/course/)
+
+- 学习[Java](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : 学习 Java 的一本线上教科书
+
+- [Bill Venners所著Java虚拟机内幕的免费线上章节](http://www.artima.com/insidejvm/ed2/index.html)
+
+- [理解 JVM 内部](http://www.cubrid.org/blog/understanding-jvm-internals)
+
+- [垃圾收集如何作用](https://www.dynatrace.com/resources/ebooks/javabook/how-garbage-collection-works/)
+
+- [欢迎来到 JavaWorld.com](http://www.javaworld.com/)
+
+- [Java内存模型](http://www.cs.umd.edu/~pugh/java/memoryModel/)
+
+- [Netbeans 键盘快捷键](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : 使用 NetBeans 时提高你的生产力的键盘快捷键
+
+- [IntelliJ 键盘快捷键](https://www.jetbrains.com/help/idea/keyboard-shortcuts-you-cannot-miss.html) : 使用 IntelliJ 时提高你的生产力的键盘快捷键
+
+- [XyzWs Java 问与答](http://www.xyzws.com/javafaq/page/1) : Java 面试问题的大汇总
+
+- [搜索开发源代码 Java API](http://www.docjar.com/) : 查看 Java 库的源代码，学习其如何实现
+
+- [JournalDev - Java、Java EE、 Android、Web 开发教程](http://www.journaldev.com/)
+
+- [算法和数据结构的实现，面试问题和答案](https://github.com/sherxon/AlgoDS)：算法和数据结构的实现，面试问题和答案
+
+- [什么是垃圾收集](https://plumbr.eu/handbook/what-is-garbage-collection) : 揭秘垃圾收集
+
+- [学习Java的最佳必读书籍](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html) : 夯实 Java 基础
+
+- [垃圾收集（Java）； 扩充数据 （视频）](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
+
+- [Java Off Heap](http://www.javaoffheap.com/): 离开堆房的 Java
+
+- [Java源代码](http://www.java-source.net/): Java 源代码
+
+- [编译器（视频）](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
+
+- [深入Java；垃圾收集是好事！](https://www.infoq.com/presentations/garbage-collection-benefits)
+
+- [The C++ Programming Language](http://www.stroustrup.com/C++.html) :  C++ 编程语言
+
+- [Bjarne Stroustru的问与答](http://www.stroustrup.com/bs_faq.html) : C++ 问与答
+
+- [Bjarne Stroustrup的 C++ 风格以及技术问答](http://www.stroustrup.com/bs_faq2.html) : C++ 问与答
+
+- [C++11 -  ISO C++ 的新标准](http://www.stroustrup.com/C++11FAQ.html) : C++11 问与答
+
+   
+
+ 
+
+学习人工智能
+
+- [What's the difference between AI- DP and ML?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : 人工智能、机器学习和深度学习的区别
+
+- [Unsupervised Sentiment Neuron](https://blog.openai.com/unsupervised-sentiment-neuron/) : 无人监控的情绪神经元
+
+- [Robots that learn](https://blog.openai.com/robots-that-learn/) : 会学习的机器人
+
+- [grakn.ai](https://grakn.ai/) : 针对 AI 的数据库
+
+- [fast.ai](http://course.fast.ai/) : 给非研究生水平的程序员的免费的深度学习的实践课程！
+
+   
+
+研讨会、研究写作、会谈等
+
+- [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html)：研究与写作咨询
+
+- [Seminar and reports](https://www.cse.iitb.ac.in/~ranade/communicationskills.html)：研讨会和报告
+
+- [PHD MS Articles](http://www.cse.iitd.ac.in/~srsarangi/articles.html)
+
+- [Practical Tips for Talking at Usergroups and Conferences and Giving presentation on software project to non-programmers](https://stephenhaunts.com/2015/10/02/practical-tips-for-talking-at-usergroups-and-conferences-part-1/)：在用户组和会议上进行交流的实用技巧，并向非程序员介绍软件项目
+
+   
+
+凡事汇聚一处
+
+- [reddit.com/user/ashish2199/m/cs_student_subs](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : 计算机科学和编程相关的 reddit 话题汇总。
+
+   
+
+YouTube 频道
+
+- [Computerphile](https://www.youtube.com/user/Computerphile/videos) : 每个计算机科学系的学习必看
+
+- [ComputerHistory](https://www.youtube.com/user/ComputerHistory/videos) : 给那些想知道计算机历史的人
+
+- [GoogleTechTalks](https://www.youtube.com/user/GoogleTechTalks/videos) : 关于热门话题的视频和科技行业正在发生的酷事
+
+- [Placement Grid](https://www.youtube.com/user/PlacementGrid/videos) : 面试和校园实习经验
+
+- [Google Developers](https://www.youtube.com/user/GoogleDevelopers/videos)
+
+- [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers/videos)
+
+- [O'Reilly](https://www.youtube.com/user/OreillyMedia/videos) : 世界最佳技术作家访谈录
+
+- [Java](https://www.youtube.com/user/java/videos) : Java 相关的访谈录
+
+- [JavaOne](https://www.youtube.com/channel/UCdDhYMT2USoLdh4SZIsu_1g/videos) : Java 大会
+
+- [CppCon](https://www.youtube.com/user/CppCon/videos?shelf_id=0&view=0&sort=dd) : C++ 大会
+
+- [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now （前身为 BoostCon） 大会
+
+- [Meeting C++ YT Kanalseite](https://www.youtube.com/user/MeetingCPP/videos) : C++ 相关的访谈录
+
+- [ThinMatrix](https://www.youtube.com/user/ThinMatrix/videos) : 以 Java 凭 OpenGL 创建 3D 游戏的开发人员的博客和教程
+
+- [yegor256](https://www.youtube.com/user/technoparkcorp/videos)
+
+- [Scott Meyers: Past Talks](http://www.aristeia.com/presentations.html)
+
+- [thoughtbot](https://www.youtube.com/user/ThoughtbotVideo/videos) : 关于各种话题的访谈录
+
+- [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : 诺基亚 Wrocław 技术中心组织的 code::dive 大会
+
+- [HowToBecomeTV](https://www.youtube.com/user/HowToBecomeTV/videos) : 囊括科技行业相关人员和开发者的优秀访谈
+
+- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) : 人工智能和深度学习的视频教程
+
+- [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA/videos) : 给 web 开发人员、移动开发人员和对 Netflix 的技术栈感兴趣的开发人员观看的很棒的视频
+
+- [Coding Blocks](https://www.youtube.com/user/codingblocks) : 教程、如何、建议和技巧
+
+- [Fun Fun Function](https://www.youtube.com/c/mpjmevideos) : 来自 Mattias Petter Johansson 对编程分类主题的每周一次的系列，包括一些与编码不直接相关的主题
+
+- [Gynvael Coldwin](https://www.youtube.com/user/GynvaelEN) : 极好的逆向工程和黑客（CTF）播客。每周三有线上直播。
+
+   
+
+ 
+
+好文章
+
+- [对初级开发人员的期望](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
+
+- [加速你的编码技巧的关键](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)
+
+- [一个软件开发人员的阅读列表](https://stevewedig.com/2014/02/03/software-developers-reading-list/) : 里面有一些好书和链接。
+
+- [以通俗话语解释的40个关键的计算机科学概念](http://carlcheo.com/compsci)
+
+- [每个程序员应该知道的关于内存的内容，第1部分](https://lwn.net/Articles/250967/)
+
+- [我们正在通过创新技术重塑零售业](http://multithreaded.stitchfix.com/)
+
+- [统一码](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+
+- [每个程序员都绝对、肯定需要知道的编码和字符集以操作文本](http://kunststube.net/encoding/)
+
+- [算法的清单](https://www.wikiwand.com/en/List_of_algorithms)
+
+- [深入字节码](https://www.wikiwand.com/en/Java_bytecode)
+
+- [数据结构的地图](https://fkcd.ca/b7d.svg)
+
+- [浅谈图论](https://dev.to/vaidehijoshi/a-gentle-introduction-to-graph-theory)
+
+- [Linux 内幕](https://0xax.gitbooks.io/linux-insides/content/Booting/linux-bootstrap-1.html)
+
+- [编译为 Lua 的一门程序员友好语言](http://moonscript.org/)
+
+- [为什么快速页面很重要](https://fly.io/articles/why-fast-pages-are-important/) : 为什么应用速度很重要，收入
+
+- [数据结构和算法](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions) : 一些算法和数据结构及其解决方案的清单
+
+- [编制一个TCP/IP 协议栈](http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/) : 让我们编制一个 TCP/IP 协议栈 5: TCP 转发
+
+   
+
+ 
+
+播客
+
+- [编程积木 - 忙不停地学习原理、模式和更佳实践](http://www.codingblocks.net/)
+
+- [MS Dev Show](http://msdevshow.com/)
+
+- [愤世嫉俗的开发人员](http://cynicaldeveloper.com/)
+
+- [软件工程师电台](http://www.se-radio.net/) ：针对专业软件开发人员的博客。目标是成为一个持久的教育资源，而不是一个新闻播客。
+
+- [JavaScript 碎碎念](https://devchat.tv/js-jabber) : 每周一次的讨论，关于 JavaScript、前端、社区、职业和框架。
+
+- [开发人员的茶](https://spec.fm/podcasts/developer-tea) : 给开发人员设计的适合茶歇的播客
+
+- [全栈电台](http://www.fullstackradio.com/) : 方方面面，从产品设计到用户体验到单元测试到系统管理
+
+- [软件工程日报](https://softwareengineeringdaily.com/) : 关于软件主题的每日技术访谈
+
+- [自行车车棚](http://bikeshed.fm/) : 关于 Ruby、Rails、JavaScript 及其他的开发经验和挑战的嘉宾讨论
+
+- [The Changelog](https://changelog.com/podcast) : 每周一次的对话，触及开放源码技术的核心，以及创建他们的作者
+
+- [前端的开心时刻](http://frontendhappyhour.com/) : 一个播客，其特色是一桌来自 Netflix、 Evernote、 Atlassian 和 LinkedIn 的软件工程师一边喝茶一边谈论前端开发的所有事情。
+
+- [React Native 电台](https://devchat.tv/react-native-radio) : 每周讨论用 JavaScript 和 React 创建移动应用的工具、技巧和技术。
+
+- [IPhreaks](https://devchat.tv/iphreaks) : 开发老手的关于 iOS 开发和相关技术的每周小组讨论。讨论 Apple、 工具、实践和代码。
+
+- [Syntax](https://syntax.fm/) : Wes Bos 和 Scott Tolinski 给 Web 开发人员的美味的播客
+
+- [Developer On Fire](http://developeronfire.com/episodes) : Dave Rael 主持的播客，分享开发人员的博爱精神和软件业中了不起的人物的故事。
+
+- [Groovy Podcast](http://groovypodcast.podbean.com/): Groovy 播客
+
+   
+
+ 
+
+构建简单的编译器/解释器
+
+- [Awesome Compilers](http://aalhour.com/awesome-compilers/) : 有关编译器、解释器和运行时相关资源的列表
+
+- [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/) Amateur 编译器作者的资源
+
+- [⛄️ Possibly the smallest compiler ever](https://github.com/thejameskyle/the-super-tiny-compiler)  目前为止最小的编译器
+
+- [Writing My First Compiler](https://dev.to/fcpauldiaz/writing-my-first-compiler) 编写我的第一个编译器
+
+- [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) 计算机程序的结构和转译
+
+- [Let’s Build A Simple Interpreter. Part 1.](https://ruslanspivak.com/lsbasi-part1/) 让我们构建一个简单的解释器（一）
+
+- [Growing a compiler](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html) 增强一个编译器
+
+   
+
+ 
+
+教程
+
+- [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci)：了解持续集成平台在 Hood 下是如何工作的，通过使用 Node.js 与 git 构建您自己的应用
+
+- [Tutorialspoint](http://www.tutorialspoint.com/)：一个教程网站
+
+- [W3Schools 在线 Web 教程](https://www.w3schools.com/)
+
+- [开放数据结构](http://opendatastructures.org/)：用于学习 DS 和 algos 的优秀资源，提供各种语言的代码 C ++、Java、伪代码
+
+- [John Morris 的数据结构和算法](http://oopweb.com/Algorithms/Documents/PLDS210/VolumeFrames.html)：另一个好的代码分析
+
+- [CMSI 281：数据结构](http://cs.lmu.edu/~ray/classes/dsa/)：数据结构的简单介绍
+
+- [如何在 C ++ 中编程](http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html)：用于学习 C ++和 STL 的优秀资源
+
+- [TopCoder 教程](https://www.topcoder.com/community/data-science/data-science-tutorials/)：数据科技教程网站
+
+- [黑客的 Git 指南](https://wildlyinaccurate.com/a-hackers-guide-to-git/)：对于想要打好深厚 git 基础知识的人来说
+
+- [Git 从内到外](https://maryrosecook.com/blog/post/git-from-the-inside-out)
+
+- [10 分钟学习 UNIX](http://freeengineer.org/learnUNIXin10minutes.html)
+
+- [Bash 指南](http://guide.bash.academy/)：学习 Bash Shell 的非常好的指南
+
+- [Linux 教程](http://ryanstutorials.net/linuxtutorial/)：学习 Linux 的好资源
+
+- [UNIX 教程 - 简介](http://www.ee.surrey.ac.uk/Teaching/Unix/unixintro.html)
+
+- [Linux 初学者教程](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+
+- [学习 Shell](http://linuxcommand.org/learning_the_shell.php)
+
+- [动态编程 - PrismoSkills](http://prismoskills.appspot.com/lessons/Dynamic_Programming/Chapter_01_-_Introduction.jsp)：如果想学习如何解决 DP 问题，非常好的资源。
+
+- [Deep C](https://www.slideshare.net/olvemaudal/deep-c)：C 语言很好的演示
+
+- [C 编程语言常见问题](http://c-faq.com/index.html)
+
+- [操作系统课程注意事项](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)：Galvin 的课堂笔记
+
+- [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/)：一个非常好的 SQL 备忘录
+
+- [C 编程简介](http://www.le.ac.uk/users/rjm1/cotter/index.htm)
+
+- [MySQL 要点](http://www.techotopia.com/index.php/MySQL_Essentials)
+
+- <http://www.mysqltutorial.org/>
+
+- [Best Of - Gustavo Duarte](http://duartes.org/gustavo/blog/best-of/)：包含有关各种主题的文章
+
+- [收集所有的备忘录](http://overapi.com/)：许多编程语言的备忘录
+
+- [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/)：对于那些从一些较高的编程语言（如 java 或 python ）转移到 C 的人来说。
+
+- [VimTutor +](https://vimtutorplus.herokuapp.com/exercise/1)：在浏览器上学习 VIM
+
+- [Linux 旅程](https://linuxjourney.com/)：学习 linux 的好站点
+
+- [C 编程](http://users.cs.cf.ac.uk/Dave.Marshall/C/CE.html)
+
+- [CS 2112/ENGRD 2112 Fall 2015](http://www.cs.cornell.edu/courses/cs2112/2015fa/lectures/index.html) :关于数据结构和算法的良好记录。
+
+- [更多关于 Github ——有趣的 Markdown](https://guides.github.com/features/mastering-markdown/)
+
+- [Unix 编程环境](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
+
+- [Linux 命令行：一个完整的介绍](https://www.amazon.com/Linux-Command-Line-Complete-Introduction/dp/1593273894)
+
+- [TCP / IP 系列](https://en.wikipedia.org/wiki/TCP/IP_Illustrated)
+
+- [《深入浅出设计模式》](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
+
+- 《[设计模式：可重用面向对象软件的要素](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)》：又称“四人帮”书，还有 GOF
+
+- [《 UNIX 和 Linux 系统管理手册》第4版](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
+
+- [编程，Web 开发和 DevOps 新闻，教程和初学者专家的工具](https://dzone.com/)
+
+- [indradhanush tutotials](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3/)：写一个 Unix Shell
+
+   
+
+ 
+
+查看他人的代码
+
+- [LiveEdu.tv](https://www.liveedu.tv/) : 那些构建应用、网站、游戏等的人的屏幕录像
+
+- [Twitch.tv](https://www.twitch.tv/communities/programming) : twitch 编程社区
+
+   
+
+程序员应该知道什么
+
+- [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) 程序员能力矩阵: 可以获知我们作为程序员所处的级别的文章
+
+- [GitHub.com Build software better, together](https://github.com/) 让我们一起构建更好的软件 : 存放你的项目并与他人协作的地方。（必须先了解 Git 才能有效地使用它）
+
+- [Gitlab 提供免费的无限制（私有）存储仓库和无限协作方式。](https://about.gitlab.com/)
+
+   
+
+ 
+
+竞赛式编程
+
+- [WakaTime](https://wakatime.com/) : 通过编辑器插件收集的编程指标的排行榜
+
+- [HackerRank](https://www.hackerrank.com/)
+
+- [Codeforces](http://codeforces.com/)
+
+- [topcoder](https://www.topcoder.com/)
+
+- [UVa Online Judge](https://uva.onlinejudge.org/) : 支持多语言的数百个问题。
+
+- [HackerEarth - Programming challenges and Developer jobs](https://www.hackerearth.com/)
+
+- [CodeChef](https://www.codechef.com/)
+
+- [PKU ACM ICPC Practice problems](http://poj.org/problemlist)
+
+- [Archived Problems - Project Euler](https://projecteuler.net/archives)
+
+- [Google Code Jam Practice and](https://code.google.com/codejam/past-contests) : 供练习的曾有的比赛问题
+
+- [Sphere Online Judge (SPOJ)](http://www.spoj.com/)
+
+- [Art of Problem Solving](https://artofproblemsolving.com/)
+
+- [Codingame](https://www.codingame.com/start) : 通过游戏和挑战学习编程！
+
+- [Codewars](https://www.codewars.com/) : 通过完成不同代码招数（问题）而升级
+
+- [Codefights](https://codefights.com/) : 测试你的编程技巧
+
+   
+
+ 
+
+计算机书籍
+
+- [IT eBooks - Free Download - Big Library](http://it-ebooks.info/) : 没有任何广告和即时下载的电子书下载网站。
+
+- [github.com/vhf/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) : 超过500本几乎任何你能想到的语言的免费电子书
+
+- [Computer Science Books Online](http://www.sciencebooksonline.info/computer-science.html) : 大约150本免费计算机电子书
+
+- [Best books for GATE CSE](http://gatecse.in/best-books-for-gatecse/)
+
+- [cses.fi/book.html](https://cses.fi/book.html)
+
+- [Become a Programmer, Motherfucker (list of books)](http://programming-motherfucker.com/become.html) : 来自 Zed A. Shaw 的详尽书单
+
+   
+
+ 
+
+视频教程
+
+- [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos) : 来自一位印度 Youtuber 的算法和数据结构教程。
+
+- [Derek Banas](https://www.youtube.com/user/derekbanas/videos) : 高质量的教程
+
+- [thenewboston](https://www.youtube.com/user/thenewboston/videos) : 很好，但是与干货相比有些长篇大论
+
+- [mycodeschool](https://www.youtube.com/user/mycodeschool/videos) : 数据结构和算法的教程
+
+- [CodingMadeEasy](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ 教程
+
+- [XDA-University - 帮助你学习安卓开发](https://forum.xda-developers.com/general/xda-university)
+
+- [DevTips](https://www.youtube.com/user/DevTipsForDesigners/videos) : 网页开发教程
+
+- [codedamn](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : 前端网页开发教程
+
+- [算法的设计与分析](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
+
+- [Vim 视频教程 - Flarfnoogins](http://derekwyatt.org/vim/tutorials/index.html) : 学习 vim 的优质视频教程
+
+- [CS1: Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : 很好的计算机科学的入门教程
+
+- [Kathryn Hodge](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : 给初学者的好视频
+
+- [Pluralsight](https://www.pluralsight.com/) - 通过几门短课程学习软件开发、DevOps 和数据科学
+
+   
+
+ 
+
+线上编译器和代码片段分享
+
+- [CodePad](https://codepad.remoteinterview.io/) : 可供试验、测试和运行25多门语言的代码编辑器
+
+- [JSFiddle](https://jsfiddle.net/) : 以线上代码编辑器测试你的 JavaScript、 CSS、 HTML 或 CoffeeScript
+
+- [Ideone.com](https://ideone.com/) : 线上编译器和调试工具，适用于60多门编程语言
+
+- [Pastebin.com](https://pastebin.com/)
+
+- [Godbolt.org](https://godbolt.org/) : 探索不同编译器的、带或不带优化的汇编输出的优秀工具
+
+   
+
+ 
+
+开发人员的博客
+
+- [Coding Horror](https://blog.codinghorror.com/) : 最佳编程博客之一
+
+- [WildMl](http://www.wildml.com/) : 关于机器学习的博客
+
+- [Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org/) : 关于 Python 和开放源代码的博客
+
+- [Eli Bendersky](http://eli.thegreenplace.net/) : 从 Python 到 LLVM 的一切
+
+- [Joel on Software](https://www.joelonsoftware.com/)
+
+- [Stephen Haunts { Coding in the Trenches }](https://stephenhaunts.com/)
+
+- [21世纪的编程](http://prog21.dadgum.com/)
+
+- [Clean Coder Blog](http://blog.cleancoder.com/) : 《代码整洁之道》一书的作者的博客
+
+- [Programming Blog](http://www.yegor256.com/) : Yegor Bugayenko 的编程博客
+
+- [CodeAhoy](https://codeahoy.com/) : 关于软件和人为因素的博客。100%经过人类测试。
+
+- [stevehanov.ca](http://stevehanov.ca/blog/)
+
+- [Geek Land](https://avidullu.wordpress.com/)
+
+- [Late Developer](https://latedev.wordpress.com/)
+
+- [IT Enthusiast](http://rodiongork.tumblr.com/)
+
+- [blog.might.net](http://matt.might.net/articles/)
+
+- [CSE Blog - quant, math, computer science puzzles](http://www.cseblog.com/)
+
+- [Small Programming Challenges and Puzzles](https://www.nayuki.io/category/programming)
+
+- [My Tech Interviews](http://www.mytechinterviews.com/)
+
+- [HackerEarth Blog](http://blog.hackerearth.com/)
+
+- [Algo-Geeks](http://algo-geeks.blogspot.in/)
+
+- [CoderGears Blog Insights from](http://www.codergears.com/Blog/) :  CoderGears 团队
+
+- [Runhe Tian Coding Practice](https://tianrunhe.wordpress.com/)
+
+- [Paul Graham Essays](http://www.paulgraham.com/articles.html)
+
+- [Dan Dreams of Coding](https://dandreamsofcoding.com/)
+
+- [Antonio081014's Algorithms Codes](http://code.antonio081014.com/)
+
+- [Math ∩ Programming](https://jeremykun.com/)
+
+- [Takipi Blog](http://blog.takipi.com/) : 主要关注于 Java 语言和 JVM
+
+- [Coding Geek - 关于IT、编程和Javade一个博客](http://coding-geek.com/)
+
+- [Daedtech.com](http://www.daedtech.com/) : 关于软件的故事
+
+- [Archives — Ask a Manager](http://www.askamanager.org/archives) : HR 相关的内容
+
+- [rudhakar Rayavaram](http://sudhakar.online/) : Sudhakar Rayavaram 的博客
+
+- [Antirez - Redis Creator's blog](http://antirez.com/latest/0)
+
+   
+
+ 
+
+为了提升你的英语
+
+- [Quia - English](https://www.quia.com/shared/english/)
+
+- [标点符号和大写的规则](http://www.grammarbook.com/english_rules.asp)
+
+- [语法和写作指南](http://grammar.ccc.commnet.edu/grammar/) : 给想提高英语语言技巧的人们
+
+- [普渡大学线上写作实验室 (OWL)](https://owl.english.purdue.edu/)
+
+- [Englishclub.com/learn-english](https://www.englishclub.com/learn-english.htm)
+
+   
+
+ 
+
+当你对计算机科学相关的东西感到厌烦时
+
+- [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) : 内容如其名的 reddit 子话题
+- [Vsauce](https://www.youtube.com/user/Vsauce/videos) : 最佳 youtube 频道
+- [TED](https://www.youtube.com/user/TEDtalksDirector/videos) : 关于技术、娱乐和设计的精彩演讲
+- [CrashCourse](https://www.youtube.com/user/crashcourse/videos) : 关于不同主题的小课程
+- [National Geographic](https://www.youtube.com/user/NationalGeographic/videos) : 来自世界各地的大量的高质量内容
+- [Barcroft TV](https://www.youtube.com/user/barcroftmedia/featured) : 关于令人难以置信的各种各样的人们组成的世界的每日纪录短片
+- [ColdFusion](https://www.youtube.com/user/coldfustion/videos) : 技术的过去、现在和未来
+- [SmarterEveryDay](https://www.youtube.com/user/destinws2/videos) : 关于我们周遭世界的许多惊人的科学信息，通常用高速摄影机拍摄。
+- [Ridddle](https://www.youtube.com/user/VineMontanaTV/videos) : 关于科学（主要是宇宙和太空但不仅仅是）的一个 youtube 频道。
+- [SciShow](https://www.youtube.com/user/scishow/videos) : 你一直想知道的有趣问题的答案
+- [Big Think](https://www.youtube.com/user/bigthink/videos) : 专家驱动的、可操作的教育内容，以专家为特色，从比尔克林顿到 Bill Nye 。
+- [Every Frame a Painting](https://www.youtube.com/user/everyframeapainting/videos) : 电影和电影制作的高质量的分析
+- [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos) : 关于世界各地新闻的有趣信息
+- [Reddit the front page of the internet](https://www.reddit.com/) : 在那里空闲时间要去死
+- [How to live for long time ?](http://www.bbc.com/future/story/20170601-the-secret-to-a-long-and-healthy-life-eat-less) : 长寿的秘密
