@@ -27,7 +27,8 @@
  - [廖雪峰老师](https://www.liaoxuefeng.com/)
  - [阿里左潇龙](https://www.cnblogs.com/zuoxiaolong/)
  - [阮一峰](http://www.ruanyifeng.com/home.html)
- 
+ - [程序员DD-翟永超](http://blog.didispace.com/)
+
 [面试题集]
  - [JavaGuide面试题集](https://github.com/Snailclimb/JavaGuide)
  
