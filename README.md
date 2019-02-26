@@ -18,6 +18,8 @@
 [Spring相关]
  - [spring5官方文档翻译](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/4/4-7.html)
  - [springCloud中文官方文档](https://springcloud.cc/)
+ - [springCloud demo 纯洁的微笑](https://github.com/ityouknow/spring-cloud-examples)
+ - [springCloud demo dyc87112](https://github.com/dyc87112/SpringCloud-Learning)
  
 [PPT素材]
  - [阿里素材网](https://www.iconfont.cn/)
@@ -32,6 +34,11 @@
  - [程序员DD-翟永超](http://blog.didispace.com/)
  - [芋道源码-奶奶](http://www.iocoder.cn/)
  - [纯洁的微笑]( http://www.ityouknow.com/)
+ - [程序猿DD](http://blog.didispace.com/categories/Spring-Cloud/)
+ - [liaokailin的专栏](http://blog.csdn.net/liaokailin/article/category/6212338)
+ - [周立 Spring Cloud](http://www.itmuch.com/)
+ - [方志朋 Spring Cloud 专栏](http://blog.csdn.net/column/details/15197.html)
+ - [许进 跟我学Spring Cloud](http://xujin.org/categories/%E8%B7%9F%E6%88%91%E5%AD%A6Spring-Cloud/)
 
 [面试题集]
  - [JavaGuide面试题集](https://github.com/Snailclimb/JavaGuide)
