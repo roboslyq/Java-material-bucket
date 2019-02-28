@@ -20,6 +20,7 @@
  - [springCloud中文官方文档](https://springcloud.cc/)
  - [springCloud demo 纯洁的微笑](https://github.com/ityouknow/spring-cloud-examples)
  - [springCloud demo dyc87112](https://github.com/dyc87112/SpringCloud-Learning)
+ - [JeeSite 企业信息化快速开发平台](https://github.com/leeSmall/jeesite)
  
 [PPT素材]
  - [阿里素材网](https://www.iconfont.cn/)
