@@ -43,6 +43,8 @@
 [面试题集]
  - [JavaGuide面试题集](https://github.com/Snailclimb/JavaGuide)
  - [java中高级面试指南](http://nivelle.me/javaInterview/?nsukey=I1paTUyvd%2F9%2FhXZUeVYy21bPcoKQ5cOmXF8QeKqFMbIQDRT3ptY61nzLJjQCJ2KGOfAbWHEER0SZZmyVX0UMMZvI%2BpDEwtiiF5581ZNmyWRICfcRclwXFanVpEVGuO76CZmmsAWLV35rMNwnGnVKNz9klhDmaXvrlk97pVc8A8s%3D)
-
+ -[技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)
+ -[【Java学习+面试指南】](https://github.com/Snailclimb/JavaGuide)
+ 
 [大牛github]
  - [小马哥](https://github.com/mercyblitz)
