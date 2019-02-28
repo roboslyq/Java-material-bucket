@@ -42,6 +42,7 @@
 
 [面试题集]
  - [JavaGuide面试题集](https://github.com/Snailclimb/JavaGuide)
- 
+ - [java中高级面试指南](https://qbview.url.cn/getResourceInfo)
+
 [大牛github]
  - [小马哥](https://github.com/mercyblitz)
