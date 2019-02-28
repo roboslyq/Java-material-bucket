@@ -21,7 +21,8 @@
  - [springCloud demo 纯洁的微笑](https://github.com/ityouknow/spring-cloud-examples)
  - [springCloud demo dyc87112](https://github.com/dyc87112/SpringCloud-Learning)
  - [JeeSite 企业信息化快速开发平台](https://github.com/leeSmall/jeesite)
- 
+ - [springcloud前后端分离模拟商城](https://github.com/paascloud/paascloud-master)
+
 [PPT素材]
  - [阿里素材网](https://www.iconfont.cn/)
  - [第一PPT网](http://www.1ppt.com/)
