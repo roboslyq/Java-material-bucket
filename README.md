@@ -41,11 +41,9 @@
  - [许进 跟我学Spring Cloud](http://xujin.org/categories/%E8%B7%9F%E6%88%91%E5%AD%A6Spring-Cloud/)
 
 [面试题集]
-
  - [JavaGuide面试题集](https://github.com/Snailclimb/JavaGuide)
- -[技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)
- -[Java学习+面试指南](https://github.com/Snailclimb/JavaGuide)
- 
+ - [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)
+ - [Java学习+面试指南](https://github.com/Snailclimb/JavaGuide)
  
 [大牛github]
  - [小马哥](https://github.com/mercyblitz)
