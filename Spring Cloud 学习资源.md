@@ -1,6 +1,5 @@
 
 # Awesome Spring Cloud
-**以下部分收集来自于“纯洁的微笑”**
 
 收集各种Spring Cloud 学习资源
 
@@ -11,8 +10,8 @@
 - [博客](#博客)
 - [开源](#开源)
 - [网站](#网站)
+- [脚手架项目](#脚手架项目)
 - [其它](#其它)
-
 
 ## 博客
 
@@ -57,26 +56,22 @@
 - [Spring4all-Spring Cloud专栏](http://www.spring4all.com/category/3)  
 - [网易云课堂Spring Cloud视频](http://study.163.com/courses-search?keyword=Spring%20Cloud)  
 - [Spring Cloud 参考指南- 英文版](https://projects.spring.io/spring-cloud/spring-cloud.html)  
-- [Nepxion](https://github.com/Nepxion/Aquarius)  
+- [Nepxion](https://github.com/Nepxion/Aquarius)   - [springcloud.fun SpringCloud中文索引](http://springcloud.fun/)
+- [springCloud中文官方文档](https://springcloud.cc/)
+- [springCloud demo 纯洁的微笑](https://github.com/ityouknow/spring-cloud-examples)
+- [springCloud demo dyc87112](https://github.com/dyc87112/SpringCloud-Learning)
 
-
-## [SpringCloud相关]
- - [springcloud.fun SpringCloud中文索引](http://springcloud.fun/)
- - [springCloud中文官方文档](https://springcloud.cc/)
- - [springCloud demo 纯洁的微笑](https://github.com/ityouknow/spring-cloud-examples)
- - [springCloud demo dyc87112](https://github.com/dyc87112/SpringCloud-Learning)
-
-
-## [SpringCloud脚手架项目]
+## 脚手架项目
  - [PiggyMetrics 个人财务系统](https://github.com/sqshq/PiggyMetrics)
  - [JeeSite 企业信息化快速开发平台](https://github.com/leeSmall/jeesite)
  - [paascloud-master springcloud前后端分离模拟商城](https://github.com/paascloud/paascloud-master)
  - [Cloud-Admin 微服务化开发平台(Spring Cloud)](https://gitee.com/minull/ace-security)
  - [SpringForAll springcloud-thoth spring cloud 脚手架](https://github.com/SpringForAll/springcloud-thoth)
- 
 
 ## 其它
 
 - [Spring Boot 中文索引](https://github.com/ityouknow/awesome-spring-boot)   
 - [程序员导航网站](http://tooool.org/)  
 - [IT行业中文资源大全](https://github.com/ityouknow/awesome-list)  
+
+# 注：**以上部分收集来自于“纯洁的微笑”**
