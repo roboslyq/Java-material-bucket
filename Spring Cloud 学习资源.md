@@ -1,6 +1,6 @@
 
 # Awesome Spring Cloud
-**以下收集来自于“纯洁的微笑”**
+**以下部分收集来自于“纯洁的微笑”**
 
 收集各种Spring Cloud 学习资源
 
@@ -60,6 +60,20 @@
 - [Nepxion](https://github.com/Nepxion/Aquarius)  
 
 
+## [SpringCloud相关]
+ - [springcloud.fun SpringCloud中文索引](http://springcloud.fun/)
+ - [springCloud中文官方文档](https://springcloud.cc/)
+ - [springCloud demo 纯洁的微笑](https://github.com/ityouknow/spring-cloud-examples)
+ - [springCloud demo dyc87112](https://github.com/dyc87112/SpringCloud-Learning)
+
+
+## [SpringCloud脚手架项目]
+ - [PiggyMetrics 个人财务系统](https://github.com/sqshq/PiggyMetrics)
+ - [JeeSite 企业信息化快速开发平台](https://github.com/leeSmall/jeesite)
+ - [paascloud-master springcloud前后端分离模拟商城](https://github.com/paascloud/paascloud-master)
+ - [Cloud-Admin 微服务化开发平台(Spring Cloud)](https://gitee.com/minull/ace-security)
+ - [SpringForAll springcloud-thoth spring cloud 脚手架](https://github.com/SpringForAll/springcloud-thoth)
+ 
 
 ## 其它
 
