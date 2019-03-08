@@ -1,6 +1,6 @@
 
-# 百度BRPC
-- [BRPC](https://github.com/baidu/brpc-java) brpc-java是baidu rpc的java版本实现，主要用于java系统中的rpc交互，支持baidu rpc、nshead、sofa、hulu、http等协议。
+# [百度BRPC](https://github.com/baidu/brpc-java)
+ brpc-java是baidu rpc的java版本实现，主要用于java系统中的rpc交互，支持baidu rpc、nshead、sofa、hulu、http等协议。
 
 **核心功能点**
 
