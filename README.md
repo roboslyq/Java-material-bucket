@@ -1,5 +1,7 @@
-# sites
-收集精彩网址
+# Java系技术栈集
+
+收集Java体系相关技术资料。包括Java基础，分布式，微服务，架构等
+
 # 
 [解道-常见名词解释](https://www.jdon.com/springcloud.html)
 
