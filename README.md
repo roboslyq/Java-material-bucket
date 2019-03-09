@@ -23,6 +23,7 @@
 
 [牛逼社区]
  - [IBM Java开发者社区](https://www.ibm.com/developerworks/cn/java/)
+ - [JCP社区 JSR规范](https://www.jcp.org/en/home/index)
  
 [Spring相关]
  - [spring5官方文档翻译](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/4/4-7.html)
