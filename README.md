@@ -27,6 +27,7 @@
  
 [Spring相关]
  - [spring5官方文档翻译](https://lfvepclr.gitbooks.io/spring-framework-5-doc-cn/content/4/4-7.html)
+ - [baeldung-spring英文版学习资料](https://www.baeldung.com/)
 
 [PPT素材]
  - [阿里素材网](https://www.iconfont.cn/)
