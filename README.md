@@ -2,8 +2,10 @@
 
 收集Java体系相关技术资料。包括Java基础，分布式，微服务，架构等
 
-# 
+# 常见网址
 [GC在线日志分析](https://gceasy.io/)
+
+[java虚拟机规范](https://docs.oracle.com/javase/specs/index.html)
 
 [解道-常见名词解释](https://www.jdon.com/springcloud.html)
 
