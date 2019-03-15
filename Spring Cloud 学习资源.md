@@ -26,7 +26,7 @@
 - [yjclsx spring cloud之路](https://blog.csdn.net/column/details/24531.html)  
 - [aoho spring cloud](http://blueskykong.com/tags/Spring-Cloud)  
 - [程序猿DD Spring Cloud](http://blog.didispace.com/categories/Spring-Cloud/)   
-
+- [程序猿DD Spring Cloud](http://blog.didispace.com/spring-cloud-learning/)
 
 ## 开源
 
