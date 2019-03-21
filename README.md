@@ -1,8 +1,11 @@
 # Java系技术栈集
 
-收集Java体系相关技术资料。包括Java基础，分布式，微服务，架构等
+**收集Java体系相关技术资料。包括Java基础，分布式，微服务，架构等**
 
-# 常见网址
+# 常用网址
+
+[Java基础学习博客](https://www.cnblogs.com/skywang12345/archive/2013/06/14/index.html)
+
 [GC在线日志分析](https://gceasy.io/)
 
 [java虚拟机规范](https://docs.oracle.com/javase/specs/index.html)
