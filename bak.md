@@ -1,6 +1,6 @@
-#以下链接转自于：https://blog.csdn.net/lldouble/article/details/79778172
+**[以下链接转自于：https://blog.csdn.net/lldouble/article/details/79778172]**
 
-当你遇到困境时
+# 当你遇到困境时
 
 - [Stack Overflow](https://stackoverflow.com/) : 订阅他们的每周时事通讯和其他你感兴趣的话题
 
@@ -12,11 +12,7 @@
 
 - [Codementor](https://www.codementor.io/) : 导师式社区，可以通过1对1的帮助等在同行开发人员的指导下学习
 
-   
-
- 
-
-新闻
+# 新闻
 
 - [Hacker News](https://news.ycombinator.com/) : 程序员的新闻聚合，在那里礼貌为王，尝试以一篇时事通讯在你的收件箱里获取头条新闻
 
@@ -46,11 +42,8 @@
 
 - [DevOpsLinks](http://devopslinks.com/) : 对 DevOps 感兴趣的数以千计的开发人员和 IT 专家的网络社区
 
-   
 
- 
-
-初学者的编码实践
+# 初学者的编码实践
 
 - [freeCodeCamp](https://www.freecodecamp.org/) : 学习为非盈利组织编写和构建项目。今天就构建你的全栈网页开发组合
 
@@ -76,11 +69,8 @@
 
 - [Vim adventures](https://vim-adventures.com/) : 通过玩来学习 VIM
 
-   
 
- 
-
-给那些想开始一个小项目却找不到点子的人
+# 给那些想开始一个小项目却找不到点子的人
 
 - [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : 包含从初学者到中级水平的大约 125 个项目点子
 
@@ -90,11 +80,7 @@
 
 - [vicky002/1000-Projects](https://github.com/vicky002/1000_Projects) : 可以凭任意编程语言实现的实际项目的巨长清单！
 
-   
-
- 
-
-一般编码建议
+# 一般编码建议
 
 - [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be) : 我从教别人中学到了什么
 
@@ -120,11 +106,7 @@
 
 - [JS Project Guidelines](https://github.com/wearehive/project-guidelines) : 一组 JavaScript 项目的最佳实践
 
-   
-
- 
-
-编程风格
+# 编程风格
 
 - [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : 制作意大利面条（spaghetti）的人必看
 
@@ -136,7 +118,7 @@
 
 - [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/) : 开始时要避免的坏习惯
 
-- [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : 值得采用的 C 编程习惯
+- [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/) : # # 值得采用的 C 编程习惯
 
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html) : 想报告 bug 但你不知道怎么做？看看这个帖子
 
@@ -150,11 +132,7 @@
 
 - [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/tree/master/a1) : 官方认可的风格指南，作者 John Pappa
 
-   
-
- 
-
-一般工具
+# 一般工具
 
 - [regex101](https://regex101.com/) : 线上正则表达式测试器和调试器： PHP、 PCRE、 Python、 Golang 和 JavaScript
 
@@ -162,11 +140,7 @@
 
 - [Devicons](http://vorillaz.github.io/devicons/#/main) : 给开发人员的图标的备忘单
 
-   
-
- 
-
-面试的准备
+# 面试的准备
 
 - [Pramp | 软件工程师自由点播的面试实践平台](https://www.pramp.com/ref/gt1) :与真正的同行练习程序员的面试。
 
@@ -285,10 +259,7 @@
 - [SQL 面试问题](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) : 很棒的 SQL 测试
 
    
-
- 
-
-纪录片
+# 纪录片
 
 - Machine that Changed the World - a very good documentary about history of computers （改变世界的机器——关于电脑历史的优秀的纪录片）
 
@@ -333,10 +304,7 @@
 - [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https://www.youtube.com/watch?v=1fqxMuPmGak) 无所不问
 
    
-
- 
-
-学习新知识的网络课程
+# 学习新知识的网络课程
 
 - [Class Central](https://www.class-central.com/) : 数以千计的慕课课程的10万多的学生评论目录
 
@@ -366,7 +334,7 @@
 
  
 
-与你的首选编程语言相关的网站（对我来说是 Java ）
+# 与你的首选编程语言相关的网站（对我来说是 Java ）
 
 - [重温ava](http://javarevisited.blogspot.in/) : 有益于 Java 语言学习和面试准备
 
@@ -425,10 +393,7 @@
 - [C++11 -  ISO C++ 的新标准](http://www.stroustrup.com/C++11FAQ.html) : C++11 问与答
 
    
-
- 
-
-学习人工智能
+# 学习人工智能
 
 - [What's the difference between AI- DP and ML?](https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) : 人工智能、机器学习和深度学习的区别
 
@@ -442,7 +407,7 @@
 
    
 
-研讨会、研究写作、会谈等
+# 研讨会、研究写作、会谈等
 
 - [Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html)：研究与写作咨询
 
@@ -454,13 +419,13 @@
 
    
 
-凡事汇聚一处
+# 凡事汇聚一处
 
 - [reddit.com/user/ashish2199/m/cs_student_subs](https://www.reddit.com/user/ashish2199/m/cs_student_subs/) : 计算机科学和编程相关的 reddit 话题汇总。
 
    
 
-YouTube 频道
+# YouTube 频道
 
 - [Computerphile](https://www.youtube.com/user/Computerphile/videos) : 每个计算机科学系的学习必看
 
@@ -509,10 +474,7 @@ YouTube 频道
 - [Gynvael Coldwin](https://www.youtube.com/user/GynvaelEN) : 极好的逆向工程和黑客（CTF）播客。每周三有线上直播。
 
    
-
- 
-
-好文章
+# 好文章
 
 - [对初级开发人员的期望](http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/)
 
@@ -552,7 +514,7 @@ YouTube 频道
 
  
 
-播客
+# 播客
 
 - [编程积木 - 忙不停地学习原理、模式和更佳实践](http://www.codingblocks.net/)
 
@@ -590,7 +552,7 @@ YouTube 频道
 
  
 
-构建简单的编译器/解释器
+# 构建简单的编译器/解释器
 
 - [Awesome Compilers](http://aalhour.com/awesome-compilers/) : 有关编译器、解释器和运行时相关资源的列表
 
@@ -610,7 +572,7 @@ YouTube 频道
 
  
 
-教程
+# 教程
 
 - [Subtle | Poor Man's CI](https://www.subtle.press/course/poor-mans-ci)：了解持续集成平台在 Hood 下是如何工作的，通过使用 Node.js 与 git 构建您自己的应用
 
@@ -692,11 +654,8 @@ YouTube 频道
 
 - [indradhanush tutotials](https://indradhanush.github.io/blog/writing-a-unix-shell-part-3/)：写一个 Unix Shell
 
-   
 
- 
-
-查看他人的代码
+# 查看他人的代码
 
 - [LiveEdu.tv](https://www.liveedu.tv/) : 那些构建应用、网站、游戏等的人的屏幕录像
 
@@ -704,7 +663,7 @@ YouTube 频道
 
    
 
-程序员应该知道什么
+# 程序员应该知道什么
 
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) 程序员能力矩阵: 可以获知我们作为程序员所处的级别的文章
 
@@ -712,11 +671,8 @@ YouTube 频道
 
 - [Gitlab 提供免费的无限制（私有）存储仓库和无限协作方式。](https://about.gitlab.com/)
 
-   
 
- 
-
-竞赛式编程
+# 竞赛式编程
 
 - [WakaTime](https://wakatime.com/) : 通过编辑器插件收集的编程指标的排行榜
 
@@ -747,12 +703,9 @@ YouTube 频道
 - [Codewars](https://www.codewars.com/) : 通过完成不同代码招数（问题）而升级
 
 - [Codefights](https://codefights.com/) : 测试你的编程技巧
-
-   
-
  
 
-计算机书籍
+# 计算机书籍
 
 - [IT eBooks - Free Download - Big Library](http://it-ebooks.info/) : 没有任何广告和即时下载的电子书下载网站。
 
@@ -770,7 +723,7 @@ YouTube 频道
 
  
 
-视频教程
+# 视频教程
 
 - [Tushar Roy](https://www.youtube.com/user/tusharroy2525/videos) : 来自一位印度 Youtuber 的算法和数据结构教程。
 
@@ -802,7 +755,7 @@ YouTube 频道
 
  
 
-线上编译器和代码片段分享
+# 线上编译器和代码片段分享
 
 - [CodePad](https://codepad.remoteinterview.io/) : 可供试验、测试和运行25多门语言的代码编辑器
 
@@ -818,7 +771,7 @@ YouTube 频道
 
  
 
-开发人员的博客
+# 开发人员的博客
 
 - [Coding Horror](https://blog.codinghorror.com/) : 最佳编程博客之一
 
@@ -888,7 +841,7 @@ YouTube 频道
 
  
 
-为了提升你的英语
+# 为了提升你的英语
 
 - [Quia - English](https://www.quia.com/shared/english/)
 
@@ -904,7 +857,7 @@ YouTube 频道
 
  
 
-当你对计算机科学相关的东西感到厌烦时
+# 当你对计算机科学相关的东西感到厌烦时
 
 - [r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/) : 内容如其名的 reddit 子话题
 - [Vsauce](https://www.youtube.com/user/Vsauce/videos) : 最佳 youtube 频道
