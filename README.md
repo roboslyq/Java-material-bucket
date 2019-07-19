@@ -30,6 +30,9 @@
 
 [阿里开源项目集-持续更新](https://yq.aliyun.com/articles/676140?utm_content=g_1000030314)
 
+[国外Java技术大全](https://howtodoinjava.com/)
+
+
 # [牛逼社区]
  - [IBM Java开发者社区](https://www.ibm.com/developerworks/cn/java/)
  - [JCP社区 JSR规范](https://www.jcp.org/en/home/index)
