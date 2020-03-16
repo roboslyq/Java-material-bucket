@@ -30,7 +30,7 @@
 
 [阿里开源项目集-持续更新](https://yq.aliyun.com/articles/676140?utm_content=g_1000030314)
 
-[国外Java技术大全](https://howtodoinjava.com/)
+[国外Java技术大全(howtodoinjava)](https://howtodoinjava.com/)
 
 
 # [牛逼社区]
